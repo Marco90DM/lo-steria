@@ -1,0 +1,40 @@
+
+Navbar: 
+
+Home - chi siamo - menu - oggi: - vini - ricettario - catering - press - gallery - contatti e prenotazioni 
+
+
+Logo
+(File di che genere? .pdf e .png)
+
+
+#chi siamo: descrizione dei fratelli Ogliotti con foto mezzobusto 
+
+#menu: -------------->        piatti del giorno (colonna?) 
+
+#lista vini 
+
+#press: articoli giornali, recensioni 
+
+#gallery: foto piatti & video 
+
+#ricettario? (libro) ----- > piatti forti
+
+#catering: breve descrizione e link sito www.lo2.it 
+
+#contatti e prenotazioni: comunicazione email, mappa google, numeri tell e quant’altro 
+
+#footer: p.iva - &copy - nome ristorante - (Marco e Francesco) 
+
+
+Per noi:
+Ricerca font (google fonts)
+Possibilità di sviluppare e-commerce
+Aggiungere foto ingredienti vicino a i piatti del menu
+
+Grafico: possibilità di utilizzare le foto come sfondo/background editor di testo per vini e lavagna per munu e colonna piatti del giorno
+
+	e-commerce?
+
+Foto: sezioni d’interesse, lavagna, colonna piatti del giorno, mensola vini, tovagliette di carta paglia, il menu   
+
